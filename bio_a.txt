@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Peg Daniels/ Author</title>
+<meta name="keywords" content="fiction, creative nonfiction, short stories, novel">
+  <meta name="Author" content="Peg Daniels">
+  <meta http-equiv="Reply-to" content="drpeg2003@yahoo.com">
+
+<meta name="description" content="Fiction and Nonfiction Stories"> 
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+
+
+<meta name="copyright" content="&copy; 2003 Peg Daniels">
+<meta name=viewport content="width=device-width, initial-scale=1">
+<style type="text/css">
+
+
+
+A:link {color: #000000;}
+A:visited {color: #000000;}
+A:active {color: #000000;}
+A:hover {color: white;}
+
+
+
+
+<!--
+body {
+background-image: url(DSCN1423d.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center center;
+background-size: cover;
+}
+//--}
+<!--p{font-family:Arial,geneva, helvetica, helv, sans-serif;}
+-->
+
+
+</style>
+
+</head>
+<body text=#000000 bgColor="#99ccff" background="" link="#000000" vlink="#000000">
+<br /><br /><br /><br /><br />
+<h1><p align="center"><strong><font color="#000099"><em>About Me</em></font></strong></p></h1>
+<br />
+<br />
+<p align="justify"><span style="font-size : 1.2em;"><strong>Peg Daniels grew up in the Midwest, and she came to the South to obtain a Ph.D. in math. In addition to the degree, she acquired a math professor. Retiring early from her own career as a math professor at Auburn University in Auburn, Alabama, she&#8217;s turned to creative writing. Her published works in both fiction and creative nonfiction appear on these pages. A couple of short stories have won awards in writing competitions, and her soon&ndash;to&ndash;be&ndash;published story &#8220;Dixie Dawn&#8221; was a finalist in the prestigious <em>Black Warrior Review Fiction Contest</em>. The &#8220;Auburn version&#8221; of her short story, &#8220;My Sister, A Girl,&#8221; has been anthologized in <em>Chinaberries and Crows</em>.</p>
+
+<p align="justify"><span style="font-size : 1.2em;"> Peg lives in Auburn with her one husband (the above-mentioned math professor) and two cats. She loves massage and meditation and swimming.</strong></span></p>
+
+<br />
+<br />
+<p align="center"><span style="font-size : 1em;"><a href="fictionpage.html">Fiction</a>&nbsp;&nbsp; &nbsp;&nbsp; <a href="creativenonfictionpage.html">Creative Nonfiction</a>&nbsp;&nbsp; &nbsp;&nbsp; <a href="http://webpages.charter.net/drpeg/">Home</a></span></span></p>
+
+<p align="center"><span style="font-size : .8em;">Would you like to be notified of updates to my site? Do you have comments? Questions? <a href="contact.html">Contact Me</a> </span></p>
+<br />
+<br />
+<p>
+<span style="font-size : .7em;">Background photo by Katie Jensen</a></span>
+</p>
+
+</body></html>
